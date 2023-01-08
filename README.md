@@ -65,3 +65,47 @@ https://youtu.be/KFdtf1JKXmQ?t=121
 Stable Diffusion 1.5: Install, Comparison, Guide - Everything you need to know
 https://www.youtube.com/watch?v=mUpQMx9Qimg
 
+---------------------------------------------------------------------------------------------------------------
+1/8/2023
+
+*Wiping and re-installing the AUTOMATIC1111 directory
+
+*SD 2.1 from huggingface
+
+(BASH overview)
+some commands:
+
+python --version (sometimes stable diffusion webui will need newer version to run)
+
+git status (on branch master)
+
+git fetch (see what's changed)
+
+git branch --all (lists all branches)
+
+git checkout
+
+git whatchanged or git log
+
+(hit q to get out of all of it)
+
+git log --oneline --graph
+
+git clean
+
+git clean -f (force) or -fdx (nuclear)
+
+git reset --hard
+
+cat webui-user.bat (see contents of file)
+
+###SD 2.1##
+Look at wikis of all of these things
+
+download ckpts (model checkpoint files) & vae if applicable 
+
+*LORA in AUTOMATIC1111 - a new training thing!
+
+venv - virtual environment Python (Python dependency Hell)
+
+
