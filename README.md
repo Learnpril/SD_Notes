@@ -113,3 +113,5 @@ venv - virtual environment Python (Python dependency Hell)
 1/8/2023
 
 https://rentry.org/voldy
+
+default anime negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name
