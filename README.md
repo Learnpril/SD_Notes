@@ -115,3 +115,29 @@ venv - virtual environment Python (Python dependency Hell)
 https://rentry.org/voldy
 
 default anime negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name
+
+
+some test prompts:
+
+masterpiece of male Aoyagi Hajime\(Yowamushi pedal\), 青八木　一, yowamushi pedal \(Watanabe\), medium-length  blonde hair, wearing a sohoku jersey, caustics, textile shading, high resolution illustration, blue eyes, artstation male body, in the style of wataru watanabe
+
+Anime backgrounds embedding Trigger word:(works well with everythingv3)
+anime-background-style-v2
+
+Training hypernetworks guide:
+https://rentry.org/hypernetwork4dumdums
+
+***default webui-user.bat
+********
+@echo off
+
+set PYTHON=C://Users//Owner//AppData//Local//Programs//Python//Python310//python.exe
+set GIT=
+set VENV_DIR=
+set COMMANDLINE_ARGS= --no-half --no-half-vae
+
+call webui.bat
+********
+
+
+
