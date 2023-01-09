@@ -66,7 +66,7 @@ Stable Diffusion 1.5: Install, Comparison, Guide - Everything you need to know
 https://www.youtube.com/watch?v=mUpQMx9Qimg
 
 ---------------------------------------------------------------------------------------------------------------
-1/8/2023
+1/7/2023
 
 *Wiping and re-installing the AUTOMATIC1111 directory
 
@@ -109,3 +109,7 @@ download ckpts (model checkpoint files) & vae if applicable
 venv - virtual environment Python (Python dependency Hell)
 
 
+-------------------------------
+1/8/2023
+
+https://rentry.org/voldy
