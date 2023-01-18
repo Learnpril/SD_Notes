@@ -139,5 +139,6 @@ set COMMANDLINE_ARGS= --no-half --no-half-vae
 call webui.bat
 ********
 
-
-
+NAI: 
+Eta noise seed delta = 31337
+Clip - 2
