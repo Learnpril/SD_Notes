@@ -142,3 +142,6 @@ call webui.bat
 NAI: 
 Eta noise seed delta = 31337
 Clip - 2
+
+for prompts:
+https://cdn.openart.ai/assets/Stable%20Diffusion%20Prompt%20Book%20From%20OpenArt%2010-28.pdf
