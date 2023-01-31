@@ -145,3 +145,10 @@ Clip - 2
 
 for prompts:
 https://cdn.openart.ai/assets/Stable%20Diffusion%20Prompt%20Book%20From%20OpenArt%2010-28.pdf
+
+
+---------
+1/30/2023
+
+Great guide on textural inversion embeddings:
+https://youtu.be/2ityl_dNRNw
