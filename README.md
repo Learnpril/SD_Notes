@@ -152,3 +152,5 @@ https://cdn.openart.ai/assets/Stable%20Diffusion%20Prompt%20Book%20From%20OpenAr
 
 Great guide on textural inversion embeddings:
 https://youtu.be/2ityl_dNRNw
+
+0.05:10, 0.02:20, 0.01:60, 0.005:200, 0.002:500, 0.001:3000, 0.0005
