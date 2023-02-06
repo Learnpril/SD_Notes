@@ -163,3 +163,6 @@ Maybe lower cfg and my go to are "hasselblad photography"at the start then where
 
 Np np. I like using Sophie Anderson and Henri Privat-Livemont (photographers)
 
+
+Character Training guide from anon on UnstableDiffusion:
+https://rentry.org/simplified-embed-training
