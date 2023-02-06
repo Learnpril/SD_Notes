@@ -161,3 +161,5 @@ https://www.youtube.com/watch?v=dNOpWt-epdQ
 Realistic skin tip from Unstable Diffusion:
 Maybe lower cfg and my go to are "hasselblad photography"at the start then where the artists names go "50mm f 1.2 Canon 50"and a photographer. Maybe "detailed human skin". "CGI skin texture"in negative too
 
+Np np. I like using Sophie Anderson and Henri Privat-Livemont (photographers)
+
