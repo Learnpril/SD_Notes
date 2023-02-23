@@ -166,3 +166,16 @@ Np np. I like using Sophie Anderson and Henri Privat-Livemont (photographers)
 
 Character Training guide from anon on UnstableDiffusion:
 https://rentry.org/simplified-embed-training
+
+---
+Nai prompts:
+https://novelai.io/
+
+Multiple Characters:
+https://lunarmimi.net/inspiration/novelai-anime-prompt-tips-multiple-characters/
+
+Embeddings so far:
+Aoyagi_Hajime-3400 Teshima_Junta-2125
+
+Training rate for Anime:
+0.0005:5000, 0.0001:10000 
