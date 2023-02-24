@@ -175,7 +175,7 @@ Multiple Characters:
 https://lunarmimi.net/inspiration/novelai-anime-prompt-tips-multiple-characters/
 
 Embeddings so far:
-Aoyagi_Hajime-3400 Teshima_Junta-2125
+Aoyagi_Hajime-3400 Teshima_Junta-4200
 
 Training rate for Anime:
 0.0005:5000, 0.0001:10000 
