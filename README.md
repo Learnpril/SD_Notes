@@ -179,3 +179,19 @@ Aoyagi_Hajime-3400 Teshima_Junta-4200
 
 Training rate for Anime:
 0.0005:5000, 0.0001:10000 
+
+---
+
+VAEs 
+waifu-diffusion-v1-4
+/
+vae
+/
+kl-f8-anime.ckpt
+
+
+sd-vae-ft-mse-original
+/
+vae-ft-mse-840000-ema-pruned.safetensors
+
+
