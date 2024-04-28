@@ -196,3 +196,7 @@ vae-ft-mse-840000-ema-pruned.safetensors
 
 pony lora:
 LineArt Mono Style LoRA_Pony XL v6.safetensors
+
+pony VAE:
+sdxl_vae.safetensors
+
