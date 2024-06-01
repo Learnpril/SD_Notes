@@ -121,6 +121,19 @@ some test prompts:
 
 masterpiece of male Aoyagi Hajime\(Yowamushi pedal\), 青八木　一, yowamushi pedal \(Watanabe\), medium-length  blonde hair, wearing a sohoku jersey, caustics, textile shading, high resolution illustration, blue eyes, artstation male body, in the style of wataru watanabe
 
+--
+masterpiece, 2guys_A_and_B, {A guy:  Aoyagi_Hajime, teenager, frowning, small, straight blonde hair, hair_over_one_eye, short, teenager, blonde hair, blue eyes, thin body, tshirt} {B guy: Teshima_Junta, smiling, surprised, tall, {{curly hair}}, tshirt}, in the style of Yowamushi Pedal, blue sky background with beautiful clouds, cinematic lighting, 200 mm, couple, hugging [Embeddings(Teshima_Junta-4200, Aoyagi_Hajime-3400, anime-background-style-v2)] 
+
+lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad hands, missing arms, missing legs, {{{{{text}}}}}
+
+Clip 2
+Euler a 
+28
+11
+
+768 x 512
+--
+
 Anime backgrounds embedding Trigger word:(works well with everythingv3)
 anime-background-style-v2
 
