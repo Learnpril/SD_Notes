@@ -136,6 +136,8 @@ Euler a
 
 {best quality}, {{masterpiece}}, {highres}, extremely detailed guy, sharp focus, {{sexy}}, {sexy pose}, flirtatious, {gay}, {{{character{1 guy}}}}, {{Sohoku Jersey}}, teenaged guy, solo, lying, {{thin male body}}, light smile, closed mouth, dark blue eyes, {{{sharp focus}}}, {{{masterpiece illustration}}}, {short dark curly hair}, {{{{{{dakimakura}}}}}}, {{full body}}, glowing, white theme, {{{barefoot}}}, {yowamushi pedal}, Teshima Junta, [Embeddings(Teshima_Junta-4200)]
 
+{{best quality}}, {{{{masterpiece}}}}, {highres}, extremely detailed guy, sharp focus, {{shy}}, {{{character{1 guy}}}}, {{Sohoku_Jersey}}, {{bicycle shorts}} , muscular thighs, teenage guy, solo, lying, {{thin male body}}, closed mouth, {{{sharp focus}}}, {{{masterpiece illustration}}}, {{{{{{dakimakura}}}}}}, {yowamushi pedal}, {{full body}}, glowing, white theme, {barefoot}, [Embeddings(Aoyagi_Hajime-3400)]
+
 lowres, polar lowres, bad anatomy, bad face, bad hands, bad body, bad feet, bad proportions, {bad leg}, {{{more legs}}}, worst quality, low quality, normal quality, gross proportions, blurry, poorly drawn, text, error, missing fingers, loli, shota, missing arms, missing legs, short legs, extra digit, 2girls, long skirt, indoors, out of frame, long hair, only_upper body, only_lower body, petite, low background, distorted perspective, {{{{{out of frame}}}}}, nsfw woman, girl, boobs, breasts, eyelashes, {{pillow}}, {{cape}}, {{shoes}}, {{blanket}}
 
 ""
